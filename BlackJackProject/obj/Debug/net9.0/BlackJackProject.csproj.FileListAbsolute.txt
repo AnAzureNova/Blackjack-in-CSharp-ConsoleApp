@@ -1,0 +1,14 @@
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\bin\Debug\net9.0\BlackJackProject.exe
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\bin\Debug\net9.0\BlackJackProject.deps.json
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\bin\Debug\net9.0\BlackJackProject.runtimeconfig.json
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\bin\Debug\net9.0\BlackJackProject.dll
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\bin\Debug\net9.0\BlackJackProject.pdb
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.AssemblyInfoInputs.cache
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.AssemblyInfo.cs
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.csproj.CoreCompileInputs.cache
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.dll
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\refint\BlackJackProject.dll
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.pdb
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\BlackJackProject.genruntimeconfig.cache
+C:\Users\matej\VISUAL STUDIO 2022\C#\BlackJackProject\BlackJackProject\obj\Debug\net9.0\ref\BlackJackProject.dll
